@@ -3,6 +3,6 @@
   <title>Teste PHP</title>
  </head>
  <body>
- <?php echo "<p>Te amo Bergamo</p>"; ?>
+ <?php echo "<p>Primeiro site</p>"; ?>
  </body>
 </html>
